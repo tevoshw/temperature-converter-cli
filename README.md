@@ -6,3 +6,6 @@ A simple temperature converter made in Python. Converts between Celsius, Fahrenh
 - ✅ Convert from **Celsius** to **Fahrenheit** and **Kelvin**.
 - ✅ Convert from **Fahrenheit** to **Celsius** and **Kelvin**.
 - ✅ Convert from **Kelvin** to **Celsius** and **Fahrenheit**.
+
+## Exit Output
+![alt text](image.png)

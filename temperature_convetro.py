@@ -43,7 +43,7 @@ def main():
 
             user_input_temperature = float(input("Enter the temperature: "))
 
-            print("""Now select the target temperature unit:
+            print("""\nNow select the target temperature unit:
             
             1 - Celsius
             2 - Fahrenheit
