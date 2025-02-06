@@ -1,6 +1,6 @@
 # 🌡️ Temperature Converter
 
-A simple temperature converter made in Python. Converts between Celsius, Fahrenheit and Kelvin.
+A simple temperature converter cli made in Python. Converts between Celsius, Fahrenheit and Kelvin.
 
 ## 📌 Features
 - ✅ Convert from **Celsius** to **Fahrenheit** and **Kelvin**.
